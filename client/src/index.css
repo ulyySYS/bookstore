@@ -1,0 +1,665 @@
+
+*,*::before,*::after{ box-sizing: inherit;};
+
+html {
+  box-sizing: border-box;
+  
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #dee4e7;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+nav{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 0 2rem;
+  background: #53BF9D;
+  color: black;
+}
+nav h1{
+  width: 40%;
+
+}
+nav div{
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  
+}
+nav div a{
+  color: black;
+  text-decoration: none;
+  background: #53BF9D;
+  height: 100%;
+  width: 25%;
+  text-align: center;
+  justify-content: center;
+ 
+}
+nav div a:hover{
+  border: 3px solid #dee4e7;
+}
+
+
+.homepage{
+  padding-top: 2rem;
+}
+
+/*cards & collection style*/
+.collection-name-container{
+  border-bottom: 3px #53BF9D solid;
+  width: 100%;
+}
+.collection-name{
+  background: #53BF9D;
+  color: black;
+  width: fit-content;
+  margin: 2rem 0 0 1rem ;
+  padding: 0 1rem;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.collection{
+  display: grid;
+  width: 100%;
+ padding: 1rem 1rem 1rem 4rem;
+}
+
+.cards{
+  border: 5px #53BF9D solid;
+  width: 200px;
+  margin-bottom: 2rem;
+  gap: 0;
+  border-radius: 10px;
+  box-shadow: 6px 7px;
+  color: #896b49;
+  
+}
+.cards:hover{
+  transform: scale(.98);
+  transition: 300ms;
+  cursor: pointer;
+ 
+}
+.cards h3{
+  padding: 0 .6rem;
+  margin: 0;
+  font-size: 1.5em;
+  color: black;
+}
+.cards img{
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.card1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.card2 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+.card3 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+.card4 {
+  grid-column-start: 4;
+  grid-column-end: 5;
+}
+
+
+
+
+
+
+
+
+
+/* item Popup style */
+.popup-box {
+  position: fixed;
+  background: #00000050;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+ 
+.box {
+  position: relative;
+  width: 70%;
+  margin: 0 auto;
+  height: 100%;
+  max-height: 80vh;
+  margin-top: calc(95vh - 85vh - 20px);
+  background: #dee4e7;
+  border-radius: 4px;
+  padding: 20px;
+  border-radius: 15px; 
+  overflow: auto;
+  overflow: hidden;
+}
+ 
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: fixed;
+  right: calc(15% - 30px);
+  top: calc(96vh - 85vh - 33px);
+  background: #dee4e7;
+  width: 4%;
+  height: 4%;
+  border-radius: 50px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #53BF9D;
+  font-size: 20px;
+}
+
+.item-container{
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+.item-container img{
+  border: 5px #53BF9D solid;
+  border-radius: 20px;
+  width: 33.5%;
+  display: flex;
+  flex-direction: column;
+}
+.item-container div{
+  width: 85%;
+}
+
+.book-info{
+  width: 90%;
+  height: 85%;
+  margin-left: 2rem;
+  margin-top: 1rem;
+  padding: 1rem .7rem 0 .7rem;
+  background: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.book-info h1{
+  margin: 0;
+  font-size: 2.7em;
+  
+}
+
+.info{
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.description{
+  margin-top: 4rem;
+  font-size: 1.8em;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: flex-end;
+  width: 90%;
+  height: 5.5%;
+  padding: 0 1.4rem 1rem 0;
+  margin-left: 2rem;
+  background: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.btn-container a{
+ width: 30%;
+}
+.btn-container button{
+  width: 100%;
+  border: none;
+  background: #53BF9D ;
+  height: 100%;
+  font-size: 1em;
+  border-radius: 4px;
+}
+.btn-container button:hover,
+.btn-container button:active{
+  cursor: pointer;
+  transform: scale(.96);
+  transition: 200ms;
+}
+
+
+/*for contacts style*/
+.contacts-container{
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+.contacts{
+  border: 3px #53BF9D solid;
+  border-radius: 20px;
+  width: 40%;
+  height: 80%;
+  margin: 3rem;
+  padding: 1rem;
+  text-align: center;
+  background: whitesmoke;
+}
+.contacts h1 img{
+  position: relative;
+  top: .4rem;
+ 
+}
+.contacts h1 img:hover{
+  cursor: pointer;
+}
+
+
+/*responsive design*/
+@media (max-width: 1144px) {
+  .card1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  
+  .card2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+  .card3 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+  }
+  .card4 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+
+ 
+}
+
+@media (max-width: 1223px){
+  .book-info h1{
+    margin: 0;
+    font-size: 2em;
+    
+  }
+  .description{
+    margin-top: 2rem;
+    font-size: 1.8em;
+  }
+}
+
+@media (max-width: 994px){
+  .book-info h1{
+    margin: 0;
+    font-size: 2em;
+    
+  }
+  .description{
+    margin-top: 2rem;
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 839px ){
+  .btn-container button{
+    font-size: .9em;
+  }
+}
+
+@media (max-width: 880px) {
+  .collection{
+    padding: 1rem 3rem;
+  }
+
+  .cards{
+    width: 180px;
+  }
+
+  .cards h3{
+    font-size: 1.3em;
+  }
+
+
+}
+
+@media (max-width: 768px){
+  .collection{
+    padding: 1rem 2rem;
+  }
+
+  .item-container img{
+    width: 30%;
+    height:  90%;
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 725px){
+  .collection-name{
+    font-size: 1.2em;
+  }
+  
+
+  .collection{
+    padding: 1rem;
+  }
+
+  .book-info h1{
+    margin: 0;
+    font-size: 1.8em;
+    
+  }
+  .description{
+    margin-top: 2rem;
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 721px){
+  .btn-container button{
+    font-size: .8em;
+  }
+  
+
+  .description{
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 686px){
+  .collection{
+    padding: 1rem .5rem ;
+  }
+  .book-info h1{
+    margin: 0;
+    font-size: 1.8em;
+    
+  }
+  .description{
+    margin-top: 2rem;
+    font-size: 1.3em;
+  }
+
+  .item-container img{
+    width: 30%;
+    height:  80%;
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 653px){
+  .collection{
+    padding: 1rem 0;
+  }
+.btn-container a{
+  width: 50%;
+ }  
+}
+
+@media (max-width: 625px){
+  .collection{
+    padding: 1rem 1rem;
+  }
+  .cards{
+    width: 150px;
+  }
+
+  .cards h3{
+    padding: 0 .1rem;
+    font-size: 1.1em;
+
+  }
+}
+
+@media (max-width: 625px){
+  nav div h3{
+    font-size: 1em;
+  }
+  .collection{
+    padding: .5rem;
+  }
+}
+
+
+@media (max-width: 599px){
+  .close-icon {
+    width: 8%;
+    height: 6%;
+    right: calc(15% - 50px);
+  }
+
+  .box{
+    padding: 0;
+  }
+    
+  .item-container{
+    display: flex;
+    flex-direction: column;
+    background: white;
+  }
+
+  .book-info{
+    min-width: 100%;
+    min-height: 193.6px;
+    height: fit-content;
+    display: flex;
+    margin: 1rem 0;
+    padding: .2rem;
+  }
+
+  .book-info img{
+    border: 2px #53BF9D solid;
+    margin: 0 .4rem;
+
+    width: 50%;
+    height: 100%;
+  }
+
+
+  .book-info h1{
+    font-size: 1.5em;  
+  }
+
+  .info{
+    font-size: 1em;
+  }
+
+  .description{
+    margin: 0 1rem;
+    font-size: 1.5em;
+  }
+
+  .btn-container{
+    position: absolute;
+    top: 90.5%;
+  }
+  .btn-container a{
+  width: 30%;
+  }
+}
+
+@media (max-width: 580px){
+  .collection-name{
+    font-size: 1.1em;
+  }
+}
+
+@media (max-width: 555px){
+  .collection{
+    padding: .5rem 2rem;
+  }
+
+  .cards{
+    width: 180px;
+  }
+
+  .card1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  
+  .card2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+  .card3 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  .card4 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+
+  .contacts{
+    width: 70%;
+  }
+}
+
+@media (max-width: 535px){
+  .collection-name{
+    margin: 2rem 0 0 .2rem ;
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 517px){
+  nav div h3{
+    font-size: .9em;
+  }
+  .book-info h1{
+    font-size: 1.4em;  
+  }
+  .description{
+    font-size: 1.3em;
+  }
+
+}
+
+@media (max-width: 478px){
+  .collection-name{
+    margin: 2rem 0 0 0 ;
+    font-size: 1em;
+    border-top-left-radius: 0;
+    padding: 0 .5rem;
+  }
+  .collection{
+    padding: .5rem 1rem;
+  }
+  .cards{
+    width: 180px;
+  }
+}
+
+@media (max-width: 470px){
+  nav{
+    padding: 0 0 0 .4rem;
+  }
+  nav h1{
+    width: 35%;
+
+  }
+  nav div{
+    width: 65%;
+    
+  }
+
+  nav div a{
+    width: 32%;
+  }
+
+  nav div h3{
+    font-size: .8em;
+  }
+}
+
+@media (max-width: 444px){
+  nav h1{
+    font-size: 1.2em;
+  }
+
+  nav div a{
+    width: 30%;
+  }
+
+  .cards{
+    width: 70%;
+  }
+
+  .cards h3{
+    padding: 0 .1rem;
+    font-size: 1em;
+
+  }
+
+  .box {
+    width: 91%;
+  }
+
+  .close-icon {
+    height: 5%;
+    top: calc(96vh - 85vh - 42px);
+  }
+
+  .book-info h1{
+    font-size: 1.4em;  
+  }
+
+  .btn-container a{
+  width: 50%;
+  }
+}
+
+@media (max-width: 353px){
+  .cards h3{
+    padding: 0 .1rem;
+    font-size: .9em;
+
+  }
+
+  .box {
+    width: 95%;
+  }
+
+  .description{
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 332px){
+  nav h1{
+    font-size: 1.1em;
+  }
+
+  nav div a{
+    width: 31%;
+  }
+
+
+}
+

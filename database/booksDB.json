@@ -1,0 +1,949 @@
+{
+    "combinedPrintAndEBookfiction":{
+        "display_name": "Combined Print & E-Book Fiction",
+        "list_name": "combined-print-and-e-book-fiction",
+        "books": [
+            {
+                "key": 1,
+                "title": "WHERE THE CRAWDADS SING",
+                "author": "Delia Owens",
+                "publisher": "Putnam",
+                "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+                "buy_link": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg"   
+            },
+            {
+                "key": 2,
+                "title": "IT ENDS WITH US",
+                "author": "Colleen Hoover",
+                "publisher": "Atria",
+                "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+                "buy_link": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg"   
+            } ,
+            {
+                "key": 3,
+                "title": "VERITY",
+                "author": "Colleen Hoover",
+                "publisher": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+                "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+                "buy_link": "https://www.amazon.com/dp/1791392792?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg"   
+            },
+            {
+                "key": 4,
+                "title": "THE HOTEL NANTUCKET",
+                "author":"Elin Hilderbrand",
+                "publisher": "Little, Brown",
+                "description": "The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.",
+                "buy_link": "https://www.amazon.com/dp/0316258679?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780316258678.jpg"   
+            }, 
+            {
+                "key": 5,
+                "title": "UGLY LOVE",
+                "author": "Colleen Hoover",
+                "publisher": "Atria",
+                "description": "Tate Collins and Miles Archer, an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+                "buy_link": "http://www.amazon.com/Ugly-Love-Novel-Colleen-Hoover-ebook/dp/B00HB62MC0?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg"   
+            }, 
+            {
+                "key": 6,
+                "title": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+                "author": "Taylor Jenkins Reid",
+                "publisher": "Washington Square/Atria",
+                "description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+                "buy_link": "https://www.amazon.com/dp/1501161938?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg"   
+            }, 
+            {
+                "key": 7,
+                "title": "SPARRING PARTNERS",
+                "author": "John Grisham",
+                "publisher": "Doubleday",
+                "description": "Three novellas: “Homecoming,” “Strawberry Moon” and “Sparring Partners.”",
+                "buy_link": "https://www.amazon.com/dp/0385549326?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780385549325.jpg"   
+            }, 
+            {
+                "key": 8,
+                "title": "BOOK LOVERS",
+                "author": "Emily Henry",
+                "publisher": "Berkley",
+                "description": "While on vacation in North Carolina, a literary agent keeps running into an editor.",
+                "buy_link": "https://www.amazon.com/dp/0593334833?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593334836.jpg"   
+            }, 
+            {
+                "key": 9,
+                "title": "ESCAPE",
+                "author": "James Patterson and David Ellis",
+                "publisher": "Little, Brown",
+                "description": "The third book in the Billy Harney thriller series. Detective Harney goes after a billionaire crime boss and a prison escape artist.",
+                "buy_link": "https://www.amazon.com/dp/0316499447?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780316499446.jpg"   
+            }, 
+            {
+                "key": 10,
+                "title": "THE HOUSE ACROSS THE LAKE",
+                "author": "Riley Sager",
+                "publisher": "Dutton",
+                "description": "An actress escaping bad press goes to a Vermont lake house and uncovers secrets within a neighboring couple’s marriage.",
+                "buy_link": "https://www.amazon.com/dp/0593183193?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593183199.jpg"   
+            }, 
+            {
+                "key": 11,
+                "title": "NOVEMBER 9",
+                "author": "Colleen Hoover",
+                "publisher": "Atria",
+                "description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+                "buy_link": "http://www.amazon.com/November-9-Novel-Colleen-Hoover-ebook/dp/B00UDCI1S8?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg"   
+            }, 
+            {
+                "key": 12,
+                "title": "PEOPLE WE MEET ON VACATION",
+                "author": "Emily Henry",
+                "publisher": "Berkley",
+                "description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+                "buy_link": "https://www.amazon.com/dp/1984806750?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg"   
+            }, 
+            {
+                "key": 13,
+                "title": "EVERY SUMMER AFTER",
+                "author": "Carley Fortune",
+                "publisher": "Berkley",
+                "description": "The love story of Percy and Sam is told over the course of six summers and one weekend.",
+                "buy_link": "https://www.amazon.com/dp/0593438531?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593438534.jpg"  
+            }, 
+            {
+                "key": 14,
+                "title": "BEACH READ",
+                "author": "Emily Henry",
+                "publisher": "Berkley",
+                "description": "A relationship develops between a literary fiction author and a romance novelist as they both try to overcome writer’s block.",
+                "buy_link": "https://www.amazon.com/dp/1984806734?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781984806734.jpg"  
+            }, 
+            {
+                "key": 15,
+                "title": "MALIBU RISING",
+                "author": "Taylor Jenkins Reid",
+                "publisher": "Ballantine",
+                "description": "An epic party has serious outcomes for four famous siblings.",
+                "buy_link": "https://www.amazon.com/dp/1524798657?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781524798659.jpg"   
+            }
+        ]
+    },
+    "combinedPrintAndEBookNonfiction": {
+        "display_name": "Combined Print & E-Book Nonfiction",
+        "list_name": "combined-print-and-e-book-nonfiction",
+        "books": [
+            {
+                "key": 1,
+                "title": "BATTLE FOR THE AMERICAN MIND",
+                "author": "Pete Hegseth with David Goodwin",
+                "publisher": "Broadside",
+                "description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+                "buy_link": "https://www.amazon.com/dp/0063215047?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg"
+            },
+            {
+                "key": 2,
+                "title": "AN IMMENSE WORLD",
+                "author": "Ed Yong",
+                "publisher": "Random House",
+                "description": "The Pulitzer Prize–winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+                "buy_link": "https://www.amazon.com/dp/0593133234?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg"
+            },
+            {
+                "key": 3,
+                "title": "THE BODY KEEPS THE SCORE",
+                "author": "Bessel van der Kolk",
+                "publisher": "Penguin",
+                "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+                "buy_link": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg"
+            },
+            {
+                "key": 4,
+                "title": "HAPPY-GO-LUCKY",
+                "author": "David Sedaris",
+                "publisher": "Little, Brown",
+                "description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+                "buy_link": "https://www.amazon.com/dp/0316392456?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg"
+            },
+            {
+                "key": 5,
+                "title": "KILLING THE KILLERS",
+                "author": "Bill O'Reilly and Martin Dugard",
+                "publisher": "St. Martin's",
+                "description": "The 11th book in the conservative commentator’s Killing series gives an account of the global war against terrorists.",
+                "buy_link": "https://www.amazon.com/dp/1250279259?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg"
+            },
+            {
+                "key": 6,
+                "title": "JAMES PATTERSON",
+                "author": "James Patterson",
+                "publisher": "Little, Brown",
+                "description": "The author’s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.",
+                "buy_link": "https://www.amazon.com/dp/0316397539?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780316397537.jpg"
+            },
+            {
+                "key": 7,
+                "title": "FINDING ME",
+                "author": "Viola Davis",
+                "publisher": "HarperOne",
+                "description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+                "buy_link": "https://www.amazon.com/dp/0063037327?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg"
+            },
+            {
+                "key": 8,
+                "title": "I'D LIKE TO PLAY ALONE, PLEASE",
+                "author": "Tom Segura",
+                "publisher": "Grand Central",
+                "description": "The stand-up comedian and podcaster shares stories of parenting and strange encounters.",
+                "buy_link": "https://www.amazon.com/dp/1538704633?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781538704639.jpg"
+            },
+            {
+                "key": 9,
+                "title": "RIVER OF THE GODS",
+                "author": "Candice Millard",
+                "publisher": "Doubleday",
+                "description":"The story of the hardships encountered during 19th-century expeditions in Africa, and the complicated partnerships behind them." ,
+                "buy_link": "https://www.amazon.com/dp/0385543107?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780385543101.jpg"
+            },
+            {
+                "key": 10,
+                "title": "CRYING IN H MART",
+                "author": "Michelle Zauner",
+                "publisher": "Knopf",
+                "description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+                "buy_link": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg"
+            },
+            {
+                "key": 11,
+                "title":"THE END OF THE WORLD IS JUST THE BEGINNING" ,
+                "author": "Peter Zeihan",
+                "description": "A look at potential changes in globalization.",
+                "publisher":"Harper Business",
+                "buy_link": "https://www.amazon.com/dp/006323047X?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780063230477.jpg"
+            },
+            {
+                "key": 12,
+                "title": "ROUGH DRAFT",
+                "author": "Katy Tur",
+                "publisher": "Atria/One Signal",
+                "description": "The MSNBC anchor describes growing up with her helicopter journalist parents and her own journey in covering the news.",
+                "buy_link": "https://www.amazon.com/dp/1982118180?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781982118181.jpg"
+            },
+            {
+                "key": 13,
+                "title": "BRAIDING SWEETGRASS",
+                "author": "Robin Wall Kimmerer",
+                "publisher": "Milkweed Editions",
+                "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+                "buy_link": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg"
+            },
+            {
+                "key": 14,
+                "title": "EDUCATED",
+                "author": "Tara Westover",
+                "publisher": "Random House",
+                "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+                "buy_link": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg"
+            },
+            {
+                "key": 15,
+                "title": "GREENLIGHTS",
+                "author": "Matthew McConaughey",
+                "publisher":"Crown" ,
+                "description":"The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years." ,
+                "buy_link": "https://www.amazon.com/dp/0593139135?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg"
+            }
+        ]
+    },
+    "youngAdult":{
+        "display_name":"Young Adult",
+        "list_name":"young-adult",
+        "books": [
+            {
+                "key": 1,
+                "title": "PAPER TOWNS",
+                "author": "John Green",
+                "publisher": "Penguin Group",
+                "description": "After a night of mischief, the girl Quentin loves disappears.",
+                "buy_link": "http://www.amazon.com/Paper-Towns-John-Green/dp/014241493X?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780142414934.jpg"
+           },
+           {
+            "key": 2,
+            "title": "LOOKING FOR ALASKA",
+            "author": "John Green",
+            "publisher": "Penguin Group",
+            "description": "A boy finds excitement when he meets a girl named Alaska.",
+            "buy_link": "http://www.amazon.com/Looking-Alaska-John-Green/dp/0142402516?tag=NYTBSREV-20",
+            "img":"https://storage.googleapis.com/du-prd/books/images/9780142402511.jpg"
+       },
+       {
+        "key": 3,
+        "title": "ME AND EARL AND THE DYING GIRL",
+        "author": "Jesse Andrews",
+        "publisher": "Abrams Books",
+        "description":"A high school senior befriends a girl with cancer." ,
+        "buy_link": "http://www.amazon.com/Earl-Dying-Girl-Revised-Edition/dp/1419719602?tag=NYTBSREV-20",
+        "img":"https://storage.googleapis.com/du-prd/books/images/9781419719608.jpg"
+   },
+   {
+                "key": 4,
+                "title":"THE BOOK THIEF" ,
+                "author": "Markus Zusak",
+                "publisher": "Knopf Doubleday Publishing",
+                "description": "A girl copes with life under the Nazis by stealing books.",
+                "buy_link": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780375842207.jpg"
+           },
+           {
+                "key": 5,
+                "title": "MISS PEREGRINE'S HOME FOR PECULIAR CHILDREN",
+                "author": "Ransom Riggs and Cassandra Jean",
+                "publisher": "Quirk Books",
+                "description": "An island, an abandoned orphanage and a collection of curious photographs.",
+                "buy_link": "http://www.amazon.com/Miss-Peregrines-Home-Peculiar-Children/dp/1594746036?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781594746031.jpg"
+           },
+           {
+            "key": 6,
+            "title":"THE FAULT IN OUR STARS" ,
+            "author": "John Green",
+            "publisher": "Penguin Group",
+            "description":"A girl faces new realities when she learns she has cancer." ,
+            "buy_link": "http://www.amazon.com/The-Fault-Stars-John-Green-ebook/dp/B005ZOBNOI?tag=NYTBSREV-20",
+            "img":"https://storage.googleapis.com/du-prd/books/images/9781101569184.jpg"
+       },
+       {
+                "key": 7,
+                "title": "THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN",
+                "author": "Sherman Alexie.",
+                "publisher": "Little, Brown & Company",
+                "description": "A boy leaves his reservation to attend an all-white school.",
+                "buy_link": "http://www.amazon.com/Absolutely-True-Diary-Part-Time-Indian/dp/0316013692?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780316013697.jpg"
+           },
+           {
+            "key": 8,
+            "title": "AN ABUNDANCE OF KATHERINES",
+            "author":"John Green" ,
+            "publisher": "Penguin Group",
+            "description": "Colin Singleton wants to break the pattern of being dumped.",
+            "buy_link": "http://www.amazon.com/An-Abundance-Katherines-John-Green/dp/0142410705?tag=NYTBSREV-20",
+            "img":"https://storage.googleapis.com/du-prd/books/images/9780142410707.jpg"
+       },
+       {
+                "key": 9,
+                "title": "ELEANOR AND PARK",
+                "author": "Rainbow Rowell",
+                "publisher": "St. Martin's Press",
+                "description": "The world opposes the love of two outcast teenagers.",
+                "buy_link": "http://www.amazon.com/Eleanor-Park-Rainbow-Rowell/dp/1250012570?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781250012579.jpg"
+           },
+           {
+                "key": 10,
+                "title": "THIRTEEN REASONS WHY",
+                "author": "Jay Asher",
+                "publisher": "Penguin Group",
+                "description":"Before she commits suicide, a girl sends recordings to 13 people." ,
+                "buy_link": "http://www.amazon.com/Thirteen-Reasons-Why-Jay-Asher/dp/159514188X?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781595141880.jpg"
+           },
+           {
+                "key": 11,
+                "title": "THE 5TH WAVE",
+                "author": "Rick Yancey",
+                "publisher": "Penguin Group",
+                "description": "Aliens land on earth and the apocalypse begins. ",
+                "buy_link": "http://www.amazon.com/The-5th-Wave-Rick-Yancey-ebook/dp/B009VMC7UO?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781101598962.jpg"
+           },
+           {
+                "key": 12,
+                "title": "HOLLOW CITY",
+                "author":"Ransom Riggs" ,
+                "publisher": "Quirk Books",
+                "description": "In 1940 London, Jacob Portman and his friends try to find a cure for their headmistress.",
+                "buy_link": "http://www.amazon.com/Hollow-City-Peregrines-Peculiar-Children/dp/1594746125?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781594746123.jpg"
+           },
+           {
+                "key": 13,
+                "title": "WILL GRAYSON, WILL GRAYSON",
+                "author": "John Green and David Levithan",
+                "publisher":"Penguin Group" ,
+                "description": "Two boys with the same name join forces in a reality possible only in musical theater.",
+                "buy_link": "http://www.amazon.com/Will-Grayson-John-Green/dp/0142418471?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780142418475.jpg"
+           },
+           {
+                "key": 14,
+                "title":"IF I STAY" ,
+                "author":"Gayle Forman" ,
+                "publisher": "Penguin Group",
+                "description":"A young cellist falls into a coma." ,
+                "buy_link":"http://www.amazon.com/If-I-Stay-Gayle-Forman/dp/014241543X?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780142415436.jpg"
+           },
+           {
+                "key": 15,
+                "title": "RED QUEEN",
+                "author":"Victoria Aveyard" ,
+                "publisher": "HarperCollins Publishers",
+                "description": "A girl with a special power lives in a kingdom divided between an underclass with red blood and an elite with silver.",
+                "buy_link": "http://www.amazon.com/Red-Queen-Victoria-Aveyard/dp/0062310631?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780062310637.jpg"
+           }
+        ]
+    },
+    "graphicBooksAndManga": {
+        "display_name": "Graphic Books and Manga",
+        "list_name": "graphic-books-and-manga",
+        "books": [
+            {
+                "key": 1,
+                "title": "ON PURPOSE",
+                "author": "Dav Pilkey",
+                "publisher": "Scholastic",
+                "description": "The third book in the Cat Kid Comic Club series. Fame, fortune and creativity pull the members of the comic club in different directions.",
+                "buy_link": "https://www.amazon.com/dp/1338801945?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338801941.jpg"
+            },
+            {
+                "key": 2,
+                "title": "HEARTSTOPPER, VOL. 1",
+                "author": "Alice Oseman",
+                "publisher": "Scholastic",
+                "description": "Charlie and Nick deal with the ups and downs of high school at the same time they grow closer together.",
+                "buy_link": "https://www.amazon.com/dp/1338617435?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338617436.jpg"
+            },
+            {
+                "key": 3,
+                "title": "HEARTSTOPPER VOL. 2",
+                "publisher":"Scholastic" ,
+                "description":"The second book in the Heartstopper series. Nick discovers things about the people around him, and about himself." ,
+                "buy_link": "https://www.amazon.com/dp/1338617478?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338617474.jpg"
+            },
+            {
+                "key": 4,
+                "title": "SPY X FAMILY, VOL. 1",
+                "author": "Tatsuya Endo",
+                "publisher":"VIZ Media" ,
+                "description": "A master spy must pass himself off as a family man to infiltrate a private school, but his new wife is an assassin and adopted child is a telepath.",
+                "buy_link": "https://www.amazon.com/dp/1974715469?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781974715466.jpg"
+            },
+            {
+                "key": 5,
+                "title": "HEARTSTOPPER, VOL. 4",
+                "author": "Alice Oseman",
+                "publisher": "Scholastic",
+                "description": "The fourth book in the Heartstopper series. As the school year starts, Charlie and Nick face challenges of revealing who they are and what they feel.",
+                "buy_link": "https://www.amazon.com/dp/1338617559?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338617559.jpg"
+            },
+            {
+                "key": 6,
+                "title": "HEARTSTOPPER VOL. 3",
+                "author": "Alice Oseman",
+                "publisher": "Scholastic",
+                "description": "The third book in the Heartstopper series. Charlie and Nick learn about the coming-out process as they officially become boyfriends.",
+                "buy_link": "https://www.amazon.com/dp/1338617524?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338617528.jpg"
+            },
+            {
+                "key": 7,
+                "title":"PERSPECTIVES" ,
+                "author":"Dav Pilkey" ,
+                "publisher":"Scholastic" ,
+                "description": "The second book in the Cat Kid Comic Club series. Can this cast of characters understand and appreciate one another’s point of view?",
+                "buy_link": "https://www.amazon.com/dp/1338784854?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338784855.jpg"
+            },
+            {
+                "key": 8,
+                "title":"THE BAD GUYS" ,
+                "author":"Aaron Blabey" ,
+                "publisher": "Scholastic",
+                "description": "Tough animals in suits take on some real villains; the basis of the movie.",
+                "buy_link": "https://www.amazon.com/dp/0545912407?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780545912402.jpg"
+            },
+            {
+                "key": 9,
+                "title": "MOTHERING HEIGHTS",
+                "author":"Dav Pilkey" ,
+                "publisher": "Scholastic",
+                "description": "The 10th book in the Dog Man series. Can the power of love overcome the darkness and despair created by new villains?",
+                "buy_link": "https://www.amazon.com/dp/1338680455?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338680454.jpg"
+            },
+            {
+                "key": 10,
+                "title": "CAT KID COMIC CLUB",
+                "author": "Dav Pilkey",
+                "publisher": "Scholastic",
+                "description": "Stories within a story come to life as Li'l Petey, Flippy and Molly show baby frogs how to create comics.",
+                "buy_link": "https://www.amazon.com/dp/1338712764?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338712766.jpg"
+            },
+            {
+                "key": 11,
+                "title":"REMARKABLY RUBY" ,
+                "author": "Terri Libenson",
+                "publisher": "Balzer + Bray",
+                "description": "The sixth book in the Emmie & Friends series. Ruby writes poetry while Mia runs for class president. Will they become friends again?",
+                "buy_link": "https://www.amazon.com/dp/0063139189?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780063139183.jpg"
+            },
+            {
+                "key": 12,
+                "title": "DEATH NOTE SHORT STORIES",
+                "author":"Tsugumi Ohba." ,
+                "publisher": "VIZ Media",
+                "description": "A collection of stories including “C-Kira,” “a-Kira” and more.",
+                "buy_link": "https://www.amazon.com/dp/1974730735?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781974730735.jpg"
+            },
+            {
+                "key": 13,
+                "title": "THE BRIGHTEST NIGHT",
+                "author": "Tui T. Sutherland.",
+                "publisher": "Scholastic",
+                "description": "The fifth book in the Wings of Fire series. Sunny must decide if her destiny is already set.",
+                "buy_link": "https://www.amazon.com/dp/133873086X?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338730852.jpg"
+            },
+            {
+                "key": 14,
+                "title": "GRIME AND PUNISHMENT",
+                "author": "Dav Pilkey",
+                "publisher": "Scholastic",
+                "description": "The ninth book in the Dog Man series. After turning in his badge, the canine cop is determined not to just roll over.",
+                "buy_link":"https://www.amazon.com/dp/1338535625?tag=NYTBSREV-20" ,
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781338535624.jpg"
+            },
+            {
+                "key": 15,
+                "title": "SOLO LEVELING, VOL. 4",
+                "author":"Chugong." ,
+                "publisher": "Yen Press",
+                "description": "Jinwoo and the White Tiger trainees become stranded in a frozen forest.",
+                "buy_link":"https://www.amazon.com/dp/1975337247?tag=NYTBSREV-20" ,
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781975337247.jpg"
+            }
+        ]
+    },
+    "education":{
+        "display_name": "Education",
+        "list_name": "education",
+        "books": [
+            {
+                "key": 1,
+                "title": "THINKING, FAST AND SLOW",
+                "author": "Daniel Kahneman",
+                "publisher":"Farrar, Straus & Giroux" ,
+                "description": "A winner of the Nobel in economic science discusses how we make choices in business and personal lives and when we can and cannot trust our intuitions.",
+                "buy_link":"http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg"
+            },
+            {
+                "key": 2,
+                "title": "GRIT",
+                "author": "Angela Duckworth",
+                "publisher": "Scribner",
+                "description": "A psychologist says passion and perseverance are the keys to success.",
+                "buy_link":"http://www.amazon.com/Grit-The-Power-Passion-Perseverance-ebook/dp/B010MH9V3W?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg"
+            },
+            {
+                "key": 3,
+                "title":"THING EXPLAINER",
+                "author": "Randall Munroe",
+                "publisher": "Houghton Mifflin Harcourt",
+                "description": "Cells, elevators, smartphones, nuclear reactors and more are demystified with simply annotated blueprints. From the author of \"What If?\"",
+                "buy_link": "http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780544668256.jpg"
+            },
+            {
+                "key": 4,
+                "title": "SPEAKING AMERICAN",
+                "author": "Josh Katz",
+                "publisher": "Houghton Mifflin Harcourt",
+                "description": "The creator of the New York Times dialect quiz provides a guide to how words are pronounced in different parts of the country.",
+                "buy_link": "https://www.amazon.com/Speaking-American-Youse-Visual-Guide/dp/0544703391?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780544703391.jpg"
+            },
+            {
+                "key": 5,
+                "title": "I AM MALALA",
+                "author": "Malala Yousafzai with Christina Lamb",
+                "publisher": "Little, Brown",
+                "description": "The experience of the young Pakistani advocate for women’s education who was shot by the Taliban and later won the Nobel Peace Prize. Originally published in 2013.",
+                "buy_link": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg"
+            },
+            {
+                "key": 6,
+                "title": "ON WRITING",
+                "author": "Stephen King",
+                "publisher": "Scribner",
+                "description": "A memoir that is a master class on the writer's craft.",
+                "buy_link": "http://www.amazon.com/On-Writing-Anniversary-Edition-Memoir/dp/1439156816?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781439156810.jpg"
+            },
+            {
+                "key": 7,
+                "title":"WEAPONS OF MATH DESTRUCTION" ,
+                "author":"Cathy O'Neil" ,
+                "publisher": "Crown",
+                "description": "How decisions that impact our lives are made by algorithms instead of people.",
+                "buy_link": "http://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780553418811.jpg"
+            },
+            {
+                "key": 8,
+                "title": "BEST AMERICAN NONREQUIRED READING 2016",
+                "author": "edited  Rachel Kushner",
+                "publisher": "Mariner/Houghton Mifflin Harcourt",
+                "description": "A wide-ranging anthology selected by high school students.",
+                "buy_link":"https://www.amazon.com/Best-American-Nonrequired-Reading-2016/dp/0544812115?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780544812116.jpg"
+            },
+            {
+                "key": 9,
+                "title": "HOW NOT TO BE WRONG",
+                "author": "Jordan Ellenberg",
+                "publisher": "Penguin",
+                "description": "A mathematician shows how his discipline helps us think about problems of politics, medicine and commerce.",
+                "buy_link": "http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/1594205221?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781594205224.jpg"
+            },
+            {
+                "key": 10,
+                "title": "OTHER-WORDLY",
+                "author": "Yee-Lum Mak",
+                "publisher": "Chronicle",
+                "description": "From the blog of the same name, 64 intriguing words from a dozen languages.",
+                "buy_link": "https://www.amazon.com/Other-Wordly-words-strange-lovely-around/dp/1452125341?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781452125343.jpg"
+            }
+        ]
+    },
+    "businessBooks":{
+        "display_name": "Business",
+        "list_name": "business-books",
+        "books": [
+            {
+                "key": 1,
+                "title": "ATOMIC HABITS",
+                "author":"James Clear" ,
+                "publisher":"Avery" ,
+                "description": "... ",
+                "buy_link": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg"
+            },
+            {
+                "key": 2,
+                "title": "DARE TO LEAD",
+                "author": "Brené Brown",
+                "publisher": "Random House",
+                "description": "...",
+                "buy_link":"https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520?tag=NYTBSREV-20" ,
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780399592522.jpg"
+            },
+            {
+                "key": 3,
+                "title": "FREEZING ORDER",
+                "author": "Bill Browder",
+                "publisher": "Simon & Schuster",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg"
+            },
+            {
+                "key": 4,
+                "title":"HOW THE WORLD REALLY WORKS" ,
+                "author": "Vaclav Smil",
+                "publisher":"Viking" ,
+                "description":"..." ,
+                "buy_link": "https://www.amazon.com/dp/0593297067?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593297063.jpg"
+            },
+            {
+                "key": 5,
+                "title": "PRINCIPLES FOR DEALING WITH THE CHANGING WORLD ORDER",
+                "author": "Ray Dalio",
+                "publisher": "Avid Reader",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/dp/1982160276?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781982160272.jpg"
+            },
+            {
+                "key": 6,
+                "title":"EXTREME OWNERSHIP" ,
+                "author": "Jocko Willink and Leif Babin",
+                "publisher": "St. Martin's",
+                "description": "...",
+                "buy_link":"http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=NYTBSREV-20" ,
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781466874961.jpg"
+            },
+            {
+                "key": 7,
+                "title": "ANNA",
+                "author": "Amy Odell",
+                "publisher": "Gallery",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/dp/1982122633?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781982122638.jpg"
+            },
+            {
+                "key": 8,
+                "title": "FROM STRENGTH TO STRENGTH",
+                "author": "Arthur C. Brooks",
+                "publisher": "Portfolio",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/dp/059319148X?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg"
+            },
+            {
+                "key": 9,
+                "title":"THE EARNED LIFE" ,
+                "author": "Marshall Goldsmith and Mark Reiter",
+                "publisher": "Currency",
+                "description": "...",
+                "buy_link":"https://www.amazon.com/dp/0593237277?tag=NYTBSREV-20" ,
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780593237274.jpg"
+            },
+            {
+                "key": 10,
+                "title": "BUILD",
+                "author": "Tony Fadell",
+                "publisher": "Harper Business",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/dp/0063046067?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780063046061.jpg"
+            }
+        ]
+    },
+    "humor":{
+        "display_name": "Humor",
+        "list_name":"humor",
+        "books": [
+            {
+                "key": 1,
+                "title": "TALKING AS FAST AS I CAN",
+                "author": "Lauren Graham",
+                "publisher":"Random House" ,
+                "description": "Essays by the star of “Gilmore Girls” (both the original and the mini-series) and “Parenthood.”",
+                "buy_link": "https://www.amazon.com/Talking-Fast-Can-Gilmore-Everything-ebook/dp/B01G0GD07M?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780425285183.jpg"
+            },
+            {
+                "key": 2,
+                "title": "BORN A CRIME",
+                "author": "Trevor Noah",
+                "publisher": "Spiegel & Grau",
+                "description": "A memoir about growing up in South Africa by the comedian, now the host of “The Daily Show,” who was born into an illegal interracial relationship.",
+                "buy_link": "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg"
+            },
+            {
+                "key": 3,
+                "title":"THE DAILY SHOW (THE BOOK)" ,
+                "author": "Chris Smith",
+                "publisher":"Grand Central" ,
+                "description": "An oral history of the show, based on extensive interviews with Jon Stewart and others.",
+                "buy_link": "https://www.amazon.com/Daily-Show-Book-History-Correspondents/dp/1455565385?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781455565382.jpg"
+            },
+            {
+                "key": 4,
+                "title": "THE GIRL WITH THE LOWER BACK TATTOO",
+                "author": "Amy Schumer",
+                "publisher": "Gallery Books",
+                "description": "Humorous personal essays by the comedian, actor and writer.",
+                "buy_link": "http://www.amazon.com/Girl-Lower-Back-Tattoo-ebook/dp/B01CIM1L0U?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781501139901.jpg"
+            },
+            {
+                "key": 5,
+                "title": "SCRAPPY LITTLE NOBODY",
+                "author": "Anna Kendrick",
+                "publisher":"Touchstone" ,
+                "description": "Autobiographical essays by the young actress.",
+                "buy_link": "https://www.amazon.com/Scrappy-Little-Nobody-Anna-Kendrick-ebook/dp/B01E4BC1RU?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781501117237.jpg"
+            },
+            {
+                "key": 6,
+                "title": "SUPERFICIAL",
+                "author": "Andy Cohen",
+                "publisher": "Holt",
+                "description": "The further adventures of the TV producer (\"Watch What Happens: Live\" and the \"Real Housewives\" franchise) and personality.",
+                "buy_link": "https://www.amazon.com/Superficial-More-Adventures-Cohen-Diaries/dp/1250116481?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781250116482.jpg"
+            },
+            {
+                "key": 7,
+                "title": "WISHFUL DRINKING",
+                "author": "Carrie Fisher",
+                "publisher": "Simon & Schuster",
+                "description": "A memoir based on Fisher’s one-woman autobiographical show. Originally published in 2008.",
+                "buy_link": "http://www.amazon.com/Wishful-Drinking-Carrie-Fisher-ebook/dp/B001NLKS02?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781439102251.jpg"
+            },
+            {
+                "key": 8,
+                "title": "GO THE -- TO SLEEP",
+                "author": "Adam Mansbach",
+                "publisher":"Akashic" ,
+                "description": "A children's book parody for tired parents. Originally published in 2011.",
+                "buy_link": "http://www.amazon.com/Go-F-Sleep-Adam-Mansbach/dp/1617750255?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781617750250.jpg"
+            },
+            {
+                "key": 9,
+                "title": "WHY NOT ME?",
+                "author": "Mindy Kaling",
+                "publisher":"Crown Archetype" ,
+                "description": "More personal essays from the comedian and actress, the creator of \"The Mindy Project.\"",
+                "buy_link": "http://www.amazon.com/Why-Not-Me-Mindy-Kaling-ebook/dp/B00N6PEMZK?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg"
+            },
+            {
+                "key": 10,
+                "title": "KATHY GRIFFIN'S CELEBRITY RUN-INS",
+                "author": "Kathy Griffin",
+                "publisher": "Flatiron",
+                "description": "From Woody Allen to Warren Zevon, an alphabetical list (with anecdotes) of the celebrities Griffin has met during her years in show business.",
+                "buy_link": "https://www.amazon.com/Kathy-Griffins-Celebrity-Run-Ins-Z-ebook/dp/B01GNYVPOQ?tag=NYTBSREV-20",
+                "img": "https://storage.googleapis.com/du-prd/books/images/9781250115652.jpg"
+            }
+        ]
+    },
+    "science":{
+        "display_name": "Science",
+        "list_name":"science",
+        "books": [
+            {
+                "key": 1,
+                "title":"SAPIENS" ,
+                "author":"Yuval Noah Harari" ,
+                "publisher": "Harper Perennial",
+                "description": "...",
+                "buy_link":"http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg"
+            },
+            {
+                "key": 2,
+                "title": "THE BODY KEEPS THE SCORE",
+                "author": "Bessel van der Kolk",
+                "publisher": "Penguin",
+                "description": "...",
+                "buy_link": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg"
+            },
+            {
+                "key": 3,
+                "title": "BEING MORTAL",
+                "author": "Atul Gawande",
+                "publisher": "Picador",
+                "description":"..." ,
+                "buy_link": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg"
+            },
+            {
+                "key": 4,
+                "title":"THINKING, FAST AND SLOW" ,
+                "author": "Daniel Kahneman",
+                "publisher":"Farrar, Straus & Giroux" ,
+                "description":"..." ,
+                "buy_link": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg"
+            },
+            {
+                "key": 5,
+                "title": "THE MOSQUITO",
+                "author": "Timothy C Winegard",
+                "publisher": "Dutton",
+                "description": "...",
+                "buy_link": "https://www.amazon.com/Mosquito-Human-History-Deadliest-Predator/dp/1524743410?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781524743413.jpg"
+            },
+            {
+                "key": 6,
+                "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+                "author": "Rebecca Skloot",
+                "publisher": "Broadway",
+                "description": "...",
+                "buy_link": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg"
+            },
+            {
+                "key": 7,
+                "title":"DOPESICK" ,
+                "author": "Beth Macy",
+                "publisher": "Little, Brown",
+                "description": "...",
+                "buy_link":"https://www.amazon.com/Dopesick-Dealers-Doctors-Company-Addicted/dp/0316551244?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780316551243.jpg"
+            },
+            {
+                "key": 8,
+                "title": "WHY WE SLEEP",
+                "author": "Matthew Walker",
+                "publisher":"Scribner" ,
+                "description": "...",
+                "buy_link": "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9781501144318.jpg"
+            },
+            {
+                "key": 9,
+                "title": "21 LESSONS FOR THE 21ST CENTURY",
+                "author": "Yuval Noah Harari",
+                "publisher": "Spiegel & Grau",
+                "description": "...",
+                "buy_link":"https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179?tag=NYTBSREV-20" ,
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780525512172.jpg"
+            },
+            {
+                "key": 10,
+                "title": "QUIET",
+                "author": "Susan Cain",
+                "publisher": "Broadway",
+                "description": "...",
+                "buy_link": "http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=NYTBSREV-20",
+                "img":"https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg"
+            }
+        ]
+    }
+}
