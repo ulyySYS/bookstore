@@ -362,6 +362,10 @@ nav div a:hover{
     height:  90%;
     margin-top: 1rem;
   }
+
+  nav div a:hover{
+    border: none;
+  }
 }
 
 @media (max-width: 725px){
